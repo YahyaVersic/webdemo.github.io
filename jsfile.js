@@ -1,5 +1,5 @@
 
 
 function onPress(){
-    console.log("Penis")
+    console.log("Amogus")
 }
